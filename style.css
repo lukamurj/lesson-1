@@ -1,0 +1,37 @@
+header{
+	background: #0020F4;
+}
+nav ul, a{
+	color: white;
+}
+nav{
+	font-size: larger;
+}
+p{
+	font-size: large;
+	color: #171717;
+}
+h1{
+	background: white;
+	color: blue;
+}
+section img{
+	width: 600;
+}
+#sec_pi{
+	font-size: larger;
+	font-weight: bold;
+}
+.pi{
+ margin:10px;
+}
+.pi span{ 
+	float:right;
+}
+#btn{
+	background-color: #0A22F4;
+	color: white;
+}
+nav ul li a{
+	text-decoration: none;
+}
